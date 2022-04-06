@@ -1,0 +1,12 @@
+.header {
+  color: #fff;
+  font-size: 30px;
+  background-color: #fff;
+  border-color: red;
+  border-width: 7px;
+  border-top: 7px solid red;
+  border-right: 7px solid red;
+  border-bottom: 7px solid red;
+  border-style: solid;
+  padding: 7px;
+}
